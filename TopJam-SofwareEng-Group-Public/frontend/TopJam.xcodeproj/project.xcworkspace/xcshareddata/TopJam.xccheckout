@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>05D81200-3553-4C05-BF54-E8283916A438</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TopJam</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>487CEE875F812645AEE040B7129A1ACBEF89E767</key>
+		<string>https://github.com/ChicoState/TopJam.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>frontend/TopJam.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>487CEE875F812645AEE040B7129A1ACBEF89E767</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ChicoState/TopJam.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>487CEE875F812645AEE040B7129A1ACBEF89E767</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>487CEE875F812645AEE040B7129A1ACBEF89E767</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TopJam</string>
+		</dict>
+	</array>
+</dict>
+</plist>
